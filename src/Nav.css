@@ -1,0 +1,10 @@
+#img-red{
+    width: 40px;
+    height: 40px;
+    opacity: 1;
+    margin-right: 30px;
+}
+#nav-red{
+   opacity: 0.7;
+   background-color: red;
+}
